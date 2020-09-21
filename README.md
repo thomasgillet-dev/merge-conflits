@@ -1,3 +1,3 @@
-# merge-conflits
+LOCAL
 
-je suis un conflit !
+je suis un conflit !!
