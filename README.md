@@ -1,3 +1,3 @@
-REMOTE
+REMOOTE
 
 je suis un conflit !
